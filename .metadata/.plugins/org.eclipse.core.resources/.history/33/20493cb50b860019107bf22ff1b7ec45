@@ -1,0 +1,8 @@
+
+public class heloworl 
+{
+	public static void main()
+	{
+		System.out.println("ye");
+	}
+}
